@@ -1,4 +1,4 @@
-# How to debug AWS Lambda with Node.js
+# How to debug AWS Lambda in local machine with Node.js
 
 ## Pre-Requisite:-
 - NodeJs Installed [Download](https://nodejs.org)
