@@ -2,8 +2,10 @@ const lambdaLocal = require('lambda-local');
 const path = require('path');
  
 var jsonPayload = {
-    'cmd': 'ls'
-}
+    queryStringParameters: {
+        name: 'Kashish'
+    }
+};
  
 lambdaLocal.execute({
     event: jsonPayload,

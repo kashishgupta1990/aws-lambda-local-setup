@@ -18,5 +18,5 @@
 - Setting Visual Studio Code debugger to execute `local-execute.js` file first.
 - `handler.js` is the actual `lambda` file which contains the serverless functions.
 - Put your break-points in `handler.js` file and run your code in debug-mode available in `Visual Studio Code`
-- This handles contains the code which execute the `child_process` command.
+- This handler contains the code which echo back `query-parameter` you passed to it.
 
