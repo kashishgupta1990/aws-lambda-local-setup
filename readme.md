@@ -2,6 +2,7 @@
 
 ## Pre-Requisite:-
 - NodeJs Installed [Download](https://nodejs.org)
+- AWS Account [Login/Signup](https://aws.amazon.com/)
 - AWS CLI should installed properly with login credentials done. [aws-cli](https://aws.amazon.com/cli/)
 
 ## Tools used:-
