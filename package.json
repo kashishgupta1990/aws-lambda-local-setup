@@ -1,0 +1,14 @@
+{
+  "name": "aws-local-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lambda-local": "^1.5.2"
+  }
+}
