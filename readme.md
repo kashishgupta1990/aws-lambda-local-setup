@@ -24,4 +24,4 @@
 - https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html#cli-config-files
 - https://docs.aws.amazon.com/lambda/latest/dg/nodejs-prog-model-context.html
 - https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/setup-credentials.html
-- 
+- https://docs.aws.amazon.com/lambda/latest/dg/limits.html
