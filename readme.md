@@ -25,3 +25,4 @@
 - https://docs.aws.amazon.com/lambda/latest/dg/nodejs-prog-model-context.html
 - https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/setup-credentials.html
 - https://docs.aws.amazon.com/lambda/latest/dg/limits.html
+- https://www.stratoscale.com/blog/cloud/aws-lambda-features-limitations-practical-examples/
