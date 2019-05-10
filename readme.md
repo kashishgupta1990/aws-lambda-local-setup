@@ -20,3 +20,8 @@
 - Put your break-points in `handler.js` file and run your code in debug-mode available in `Visual Studio Code`
 - This handler contains the code which echo back `query-parameter` you passed to it.
 
+# Other related links
+- https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html#cli-config-files
+- https://docs.aws.amazon.com/lambda/latest/dg/nodejs-prog-model-context.html
+- https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/setup-credentials.html
+- 
